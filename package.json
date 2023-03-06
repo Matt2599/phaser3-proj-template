@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "mattmatt",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "phaser": "^3.55.2"
   },
